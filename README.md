@@ -1,2 +1,2 @@
 # quick-start-web
-springMVC mybaties
+java springMVC mybaties
